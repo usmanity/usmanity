@@ -5,7 +5,7 @@
 - 💬 Things that interest me: fonts, video games, history (real and fictional)
 - 📫 How to reach me: usman@hey.com
 - 😄 Pronouns: he/him
-- 🎥 I like to watch comedies, documentaries, and many kinds of TV shows
+- 🎥 I like to watch comedies, documentaries, and history videos/TV.
 
 <!--
 **usmanity/usmanity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
