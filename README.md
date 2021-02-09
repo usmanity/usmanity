@@ -6,6 +6,7 @@
 - 📫 How to reach me: usman@hey.com
 - 😄 Pronouns: he/him
 - 🎥 I like to watch comedies, documentaries, and history videos/TV.
+- ✍🏽 My blog is: https://blog.usmanity.com
 
 <!--
 **usmanity/usmanity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
