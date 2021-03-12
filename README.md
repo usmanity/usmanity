@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 🌻
 
-- 🔭 I’m currently working on internalization at Square
+- 🔭 I’m currently working on localization at Square
 - 🌱 I’m currently learning testing in ruby (it's one of those things I keep putting off)
 - 💬 Things that interest me: fonts, video games, history (real and fictional)
 - 📫 How to reach me: usman@hey.com
