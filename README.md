@@ -1,9 +1,9 @@
 ### Hi there 🌻
 
 - 🔭 I’m currently working on localization at Square
-- 🌱 I’m currently learning testing in ruby (it's one of those things I keep putting off)
+- 🌱 I’m currently learning iOS / Swift programming, very early in the journey
 - 💬 Things that interest me: fonts, video games, history (real and fictional)
-- 📫 How to reach me: usman@hey.com
+- 📫 How to reach me: contact@usman.xyz
 - 😄 Pronouns: he/him
 - 🎥 I like to watch comedies, documentaries, and history videos/TV.
 - ✍🏽 My blog is: https://blog.usmanity.com
