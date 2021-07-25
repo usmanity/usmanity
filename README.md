@@ -1,7 +1,7 @@
 ### Hi there 🌻
 
 - 🌎 I’m currently working on localization at Square
-- 🌱 I’m currently learning Rust & iOS programming in my free time
+- 🌱 My current learning goal is to understand deployments better, I've struggled with this in the past.
 - 💬 Things that interest me: fonts, video games, keyboards, history (real and fictional)
 - 📫 How to reach me: contact@usman.xyz
 - 😄 Pronouns: he/him
