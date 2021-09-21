@@ -1,6 +1,6 @@
 ### Hi there 💐
 
-- 🌱 My current learning goal is to understand deployments better, I've struggled with this in the past.
+- 🌱 My current learning goal is go-lang.
 - 💬 Things that interest me: fonts, keyboards, history (real and fictional)
 - 📫 How to reach me: contact@usman.xyz
 - 😄 Pronouns: he/him
