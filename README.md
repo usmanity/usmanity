@@ -1,6 +1,6 @@
 ### Hi there 💐
 
-- 🌱 My current learning goal is go-lang.
+- 🌱 My current learning goal is typescript with some react.
 - 💬 Things that interest me: fonts, keyboards, history (real and fictional)
 - 📫 How to reach me: contact@usman.xyz
 - 😄 Pronouns: he/him
