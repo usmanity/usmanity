@@ -2,7 +2,7 @@
 
 - 🌱 My current learning goal is typescript (with react) and go-lang.
 - 💬 Things that interest me: fonts, keyboards, history & lore.
-- 📫 How to reach me: contact@mhmd.us
+- 📫 How to reach me: usmanity@duck.com
 - 😄 Pronouns: he/him
 - 🎥 I like to watch comedies, documentaries, and history videos/TV (especially on Youtube).
 - 🎶 See what I'm listening to: https://last.fm/user/usmanity
