@@ -7,7 +7,7 @@
 - 🎶 See what I'm listening to: https://last.fm/user/usmanity
 - ✍🏽 My blog is: https://blog.usmanity.com
 - 🏠 Go check out my [homepage](https://usmanity.com?ref=github-readme.md).
-- 📹 I stream every weekend: [Twitch](https://www.twitch.tv/usmanity)
+- 📹 I stream every weekend on [Twitch](https://www.twitch.tv/usmanity).
 <!--
 **usmanity/usmanity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
