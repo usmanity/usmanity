@@ -1,6 +1,7 @@
 ### Hi there 🏵️
 
 - 📚 I'm currently working on [Bookends](https://bookends.app?ref=github-readme.md)
+- ⚒️ I work on various smaller [projects too ➡️](https://usmanity.com/projects?ref=github-readme.md).
 - 💭 Things that interest me: fonts, keyboards, history & lore
 - 📧 How to reach me: usmanity@duck.com
 - 🥹 Pronouns: he/him
