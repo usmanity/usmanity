@@ -1,6 +1,6 @@
 ### Hi there 🏵️
 
-- 📚 I'm currently working on [a few different projects](https://usmanity.com/projects?ref=github-readme.md)
+- 📚 I'm currently working on [NextJig](https://nextjig.com?ref=github-readme.md)
 - 💭 Things that interest me: fonts, keyboards, history & lore
 - 📧 How to reach me: usmanity@duck.com
 - 🥹 Pronouns: he/him
