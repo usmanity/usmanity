@@ -1,6 +1,6 @@
 ### Hi there 🏵️
 
-- 📚 I'm currently a web dev at [Numeral](https://numeralhq.com?ref=usmanity-github).
+- #️⃣ I'm currently a web dev at [Numeral](https://numeralhq.com?ref=usmanity-github).
 - 💭 Things that interest me: fonts, keyboards, history & lore
 - 📧 How to reach me: usmanity@duck.com
 - 🥹 Pronouns: he/him
