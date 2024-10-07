@@ -1,4 +1,4 @@
-### Hi there 🏵️
+### Hi there 🕴️
 
 - #️⃣ I'm currently a web dev at [Numeral](https://numeralhq.com?ref=usmanity-github).
 - 💭 Things that interest me: fonts, keyboards, history & lore
