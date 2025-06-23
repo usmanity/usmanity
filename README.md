@@ -8,4 +8,4 @@
 
 
 **Now playing 🎶**  
-<img src="https://placeholder.usmanity.com/spotify/current-song" alt="now playing" width="345">
+<a href="https://placeholder.usmanity.com/spotify/open-current-song"><img src="https://placeholder.usmanity.com/spotify/current-song" alt="now playing" width="345"></a>
