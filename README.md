@@ -7,4 +7,5 @@
 - 🌐 Go check out my [homepage](https://usmanity.com?ref=github-readme.md)
 
 
-<img src="https://placeholder.usmanity.com/spotify/current-song" alt="now playing" width="420">
+**Now playing 🎶**  
+<img src="https://placeholder.usmanity.com/spotify/current-song" alt="now playing" width="345">
