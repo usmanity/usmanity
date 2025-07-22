@@ -1,10 +1,7 @@
-### Hi there 🕴️
+### 􀓐
 
-- 💭 Things that interest me: fonts, keyboards, history
-- 📧 How to reach me: usmanity@duck.com
-- 🥹 Pronouns: he/him
-- 🖋️ My blog is: https://blog.usmanity.com
-- 🌐 Go check out my [homepage](https://usmanity.com?ref=github-readme.md)
+- My blog is: https://blog.usmanity.com
+- My [homepage](https://usmanity.com?ref=github-readme.md)
 
 **🎵 Now playing 🎶**
 
