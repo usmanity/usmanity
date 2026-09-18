@@ -1,4 +1,4 @@
-I'm currently working on [murmur](https://fernloop.com/murmur/). 
+Check out my speech-to-text app: [murmur](https://fernloop.com/murmur/). 
 
 
 
